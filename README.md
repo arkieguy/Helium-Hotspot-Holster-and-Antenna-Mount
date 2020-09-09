@@ -1,5 +1,5 @@
 # Helium-Hotspot-Holster-and-Antenna-Mount
-This is a vertical hang "holster" for a [Helium Hotpot](https://helium.com) with a beam to allow "through the window" antenna mount.
+This is a vertical hang "holster" for a [Helium Hotpot](https://helium.com) with a beam to allow "through the window" antenna mount. It also dramatically dims the LED on the front of the hotspot by putting it behind part of the mount. ;)
 
 ## Additional hardware:
 
