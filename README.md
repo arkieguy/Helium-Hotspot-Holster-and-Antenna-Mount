@@ -3,7 +3,7 @@ This is a vertical hang "holster" for a [Helium Hotpot](https://helium.com) with
 
 ## Disclaimer 
 
-1. **It's always recommended to ground outside antennas.**  You REALLY need to check with your local electrical / building codes to see if there is a need to ground your antenna.  
+1. **It's always recommended to ground outside antennas.**  You REALLY need to check with your local electrical / building codes to check recommendations / regulation for you location.  
 1. This is not a recomendation for any of these parts!  
 
 
